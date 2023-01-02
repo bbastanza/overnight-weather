@@ -1,0 +1,25 @@
+{
+  "name": "overnight-weather",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bbastanza/overnight-weather.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bbastanza/overnight-weather/issues"
+  },
+  "homepage": "https://github.com/bbastanza/overnight-weather#readme",
+  "dependencies": {
+    "axios": "^1.2.2",
+    "dotenv": "^16.0.3",
+    "twilio": "^3.84.0"
+  }
+}
